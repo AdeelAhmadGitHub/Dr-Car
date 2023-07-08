@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "38296624356",
+    "project_id": "drcars-a1693",
+    "storage_bucket": "drcars-a1693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38296624356:android:adb8057a0d3a498ea720f1",
+        "android_client_info": {
+          "package_name": "com.highApp.dr_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38296624356-5k85tept193pmte373ikgjdats5tphc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highApp.dr_car",
+            "certificate_hash": "c473e8df0f3e89c50e0c18148d5dfc4b918fb3f7"
+          }
+        },
+        {
+          "client_id": "38296624356-dp6e7cftrtoke496e5h4chfeuc92m76i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highApp.dr_car",
+            "certificate_hash": "e36c4deee43687e9929328316cf39ee0fe4c32f5"
+          }
+        },
+        {
+          "client_id": "38296624356-g0o1k5hro8fh0so1urfnbit9rdf6joi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highApp.dr_car",
+            "certificate_hash": "3d527aa08b9659617cac8bb5e17de28117e22996"
+          }
+        },
+        {
+          "client_id": "38296624356-s9364iudkkrj41daf10r598boqbg7tbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXe-x6iLjIQV9RAMVyf4bgjTvs3oT6L8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38296624356-s9364iudkkrj41daf10r598boqbg7tbr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38296624356-ljpsv0380bjmq47r9nh4ht40rt7jf125.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.highApp.dr.car"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
