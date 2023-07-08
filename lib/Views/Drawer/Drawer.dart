@@ -31,7 +31,7 @@ class _DrawerNavigationState extends State<DrawerNavigation> {
   Widget build(BuildContext context) {
     final auth = Get.put(AuthController());
     return Container(
-        color: const Color(0xff09191E),
+        color: Color(0xff09191E),
         child: Drawer(
           width: 271.w,
           child: Container(
